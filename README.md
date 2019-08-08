@@ -2,28 +2,20 @@
 
 This project was created to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
 
-by [John Papa](http://twitter.com/john_papa)
+by [Devcoder111]
 
-Comparative apps written with Angular and React can be found at [github.com/johnpapa/heroes-angular](https://github.com/johnpapa/heroes-angular) and [github.com/johnpapa/heroes-react](https://github.com/johnpapa/heroes-react)
 
 ## Why
 
 I love JavaScript and the Web! One of the most common questions I hear is "which framework is best?". I like to flip this around and ask you "which is best for you?". The best way to know this is to try it for yourself. I'll follow up with some articles on my experiences with these frameworks but in the meantime, please try it for yourself to gain your own experience with each.
 
-## Live Demos
-
-Hosted in [Azure](https://azure.microsoft.com/en-us/free/?wt.mc_id=heroesvue-github-jopapa)
-
-- [Tour of Heroes with Angular](https://papa-heroes-angular.azurewebsites.net)
-- [Tour of Heroes with React](https://papa-heroes-react.azurewebsites.net)
-- [Tour of Heroes with Vue](https://papa-heroes-vue.azurewebsites.net)
 
 ## Getting Started
 
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/johnpapa/heroes-vue.git
+   git clone https://github.com/devcoder111/heroes-vue.git
    cd heroes-vue
    ```
 
@@ -81,9 +73,6 @@ You can host the app any way you prefer. I chose Docker because it is familiar t
 
 Thank you to [Sarah Drasner](https://twitter.com/), [Brian Holt](https://twitter.com/), [Chris Noring](https://twitter.com/), [Craig Shoemaker](https://twitter.com/), and [Ward Bell](https://twitter.com/wardbell) for providing input and reviewing the code in the three repos for the Angular, React, and Vue apps:
 
-- [heroes-angular](https://github.com/johnpapa/heroes-angular)
-- [heroes-react](https://github.com/johnpapa/heroes-react)
-- [heroes-vue](https://github.com/johnpapa/heroes-vue)
 
 ## Resources
 
